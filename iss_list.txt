@@ -1,0 +1,22 @@
+standard,lnk,stat
+EN12845:2020,https://iss.rs/sr_Latn/project/show/iss:proj:64476,90.00
+EN15004-1:2019,https://iss.rs/sr_Latn/project/show/iss:proj:64475,60.60
+EN15004-2:2021,https://iss.rs/sr_Latn/project/show/iss:proj:71052,60.60
+EN15004-4:2021,https://iss.rs/sr_Latn/project/show/iss:proj:71051,60.60
+EN15004-5:2021,https://iss.rs/sr_Latn/project/show/iss:proj:71055,60.60
+EN15004-6:2021,https://iss.rs/sr_Latn/project/show/iss:proj:71056,60.60
+EN15004-7:2018,https://iss.rs/sr_Latn/project/show/iss:proj:63077,90.93
+EN15004-8:2018,https://iss.rs/sr_Latn/project/show/iss:proj:63081,90.93
+EN15004-9:2018,https://iss.rs/sr_Latn/project/show/iss:proj:63083,90.93
+EN15004-10:2018,https://iss.rs/sr_Latn/project/show/iss:proj:63070,90.93
+SRPS EN 14972-1:2021,https://iss.rs/sr_Latn/project/show/iss:proj:61133,60.60
+SRPS EN 14972-3:2021,https://iss.rs/sr_Latn/project/show/iss:proj:68884,60.60
+SRPS EN 14972-6:2023,https://iss.rs/sr_Latn/project/show/iss:proj:102828,60.60
+SRPS EN 14972-7:2023,https://iss.rs/sr_Latn/project/show/iss:proj:102826,60.60
+SRPS EN 14972-8:2020,https://iss.rs/sr_Latn/project/show/iss:proj:68886,60.60
+SRPS EN 14972-9:2020,https://iss.rs/sr_Latn/project/show/iss:proj:68885,60.60
+SRPS EN 14972-10:2022,https://iss.rs/sr_Latn/project/show/iss:proj:71782,60.60
+SRPS EN 14972-11:2023,https://iss.rs/sr_Latn/project/show/iss:proj:102827,60.60
+SRPS EN 14972-14:2021,https://iss.rs/sr_Latn/project/show/iss:proj:75103,60.60
+SRPS EN 14972-15:2021,https://iss.rs/sr_Latn/project/show/iss:proj:100740,60.60
+SRPS EN 14972-16:2019,https://iss.rs/sr_Latn/project/show/iss:proj:64480,60.60

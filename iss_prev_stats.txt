@@ -1,0 +1,12 @@
+standard,stat
+SRPS EN 14972-1:2021,<start_tracking>
+SRPS EN 14972-3:2021,<start_tracking>
+SRPS EN 14972-6:2023,<start_tracking>
+SRPS EN 14972-7:2023,<start_tracking>
+SRPS EN 14972-8:2020,<start_tracking>
+SRPS EN 14972-9:2020,<start_tracking>
+SRPS EN 14972-10:2022,<start_tracking>
+SRPS EN 14972-11:2023,<start_tracking>
+SRPS EN 14972-14:2021,<start_tracking>
+SRPS EN 14972-15:2021,<start_tracking>
+SRPS EN 14972-16:2019,<start_tracking>
